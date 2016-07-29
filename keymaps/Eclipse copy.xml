@@ -1,11 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
-  <action id="Images.Editor.ActualSize">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
+  <action id="HippieCompletion" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
 </keymap>
