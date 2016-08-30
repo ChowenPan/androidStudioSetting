@@ -6,7 +6,7 @@
   <attributes>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="70bb3f" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
