@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\Android\StudioProjects\CloudProjects\cloudhome\src\com\ajb\cloudhome\cloudtalk\SecureZoneFragment.java'" />
-    <option name="defaultScopeName" value="File 'D:\Android\StudioProjects\CloudProjects\cloudhome\src\com\ajb\cloudhome\cloudtalk\SecureZoneFragment.java'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="fromCursor" value="false" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\Android\StudioProjects\CloudProjects\cloudhome\src\com\ajb\cloudhome\cloudtalk\SecureZoneFragment.java'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
