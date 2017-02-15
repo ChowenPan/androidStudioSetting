@@ -1,8 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="read" type="Markdown" />
       <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="ap_" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
