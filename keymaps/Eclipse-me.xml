@@ -5,10 +5,15 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
   <action id="HippieCompletion" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
