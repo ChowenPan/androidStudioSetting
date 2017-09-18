@@ -59,19 +59,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/chenenyu/Router.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Allure0/AndroidComponent.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/kymjs/Modularity.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/hss01248/HttpUtilForAndroid.git" />
+          <option name="url" value="https://github.com/mzule/ActivityRouter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
