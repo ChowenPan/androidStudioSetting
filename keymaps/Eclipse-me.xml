@@ -1,4 +1,9 @@
 <keymap version="1" name="Eclipse-me" parent="Eclipse">
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
