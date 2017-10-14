@@ -1,14 +1,27 @@
 <keymap version="1" name="Eclipse-me" parent="Eclipse">
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
   <action id="HippieCompletion" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Print" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
