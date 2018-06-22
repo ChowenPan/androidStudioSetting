@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="read" type="Markdown" />
+      <mapping ext="aar" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
