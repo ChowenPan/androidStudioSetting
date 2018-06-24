@@ -1,10 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
     <MarkdownCssSettings StylesheetUri="jar:file:/C:/Users/panchuwen/.AndroidStudio3.0/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
-    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only">
-      <HtmlPanelProviderInfo>
-        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
-      </HtmlPanelProviderInfo>
-    </MarkdownPreviewSettings>
+    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" />
   </component>
 </application>
