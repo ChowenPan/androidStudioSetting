@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\smallappliances\src\main\java\com\ajb\smallAppliance\car\CarLinkageFragment.java [smallappliances]'" />
-    <option name="defaultScopeName" value="File '...\smallappliances\src\main\java\com\ajb\smallAppliance\car\CarLinkageFragment.java [smallappliances]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
     <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '...\smallappliances\src\main\java\com\ajb\smallAppliance\car\CarLinkageFragment.java [smallappliances]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
