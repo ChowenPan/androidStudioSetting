@@ -7,6 +7,7 @@
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="read" type="Markdown" />
     </extensionMap>
