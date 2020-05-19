@@ -126,6 +126,10 @@
           <option name="url" value="https://github.com/jfQzz/FaceLoginAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RickyYu/Nfc-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\StudioProjects" />
