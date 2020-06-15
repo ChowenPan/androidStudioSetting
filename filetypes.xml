@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="aar" type="AAR" />
       <mapping pattern="Req" type="CLASS" />
-      <mapping pattern="read" type="Markdown" />
-      <mapping ext="aar" type="Native" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="mp4" type="Native" />
+      <mapping ext="aar" type="Native" />
       <mapping ext="jet" type="PLAIN_TEXT" />
-      <mapping ext="dex" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
+      <mapping pattern="read" type="Markdown" />
     </extensionMap>
   </component>
 </application>
