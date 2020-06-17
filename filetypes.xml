@@ -4,6 +4,8 @@
       <removed_mapping ext="aar" type="AAR" />
       <mapping pattern="Req" type="CLASS" />
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="aar" type="Native" />
       <mapping ext="jet" type="PLAIN_TEXT" />
