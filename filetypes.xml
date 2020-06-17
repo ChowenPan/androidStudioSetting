@@ -6,12 +6,13 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="read" type="Markdown" />
       <mapping ext="mp4" type="Native" />
       <mapping ext="aar" type="Native" />
       <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="ap_" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
-      <mapping pattern="read" type="Markdown" />
+      <removed_mapping ext="aar" type="AAR" />
     </extensionMap>
   </component>
 </application>
