@@ -138,6 +138,10 @@
           <option name="url" value="https://github.com/AchillesL/jianshu-neteasedisc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ShadowsocksR-Live/ssrDroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\StudioProjects" />
